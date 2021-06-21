@@ -1,0 +1,13 @@
+Variables: Es una "caja" en donde se almacena información que luego será utilizada.
+           Esta información puede ser de distintos tipos, como "strings", números, funciones, etc.
+Strings: Son un tipo de información que puede ponerse en una variable.
+         Siempre irán entre comillas ("") y pueden ser tanto letras como símbolos o números, siempre y cuando estén entre comillas.
+Funciones: Son procedimientos que realizan tareas o cálculos. 
+           Se le asigna uno o varios valores de entrada, y en base a esos valores dados devuelve una salida.
+           Los argumentos de una función son variables que se utilizarán en la función. 
+           "Return" devuelve el resultado de una función. Es lo único a lo que se puede acceder de la función.
+Declaración if: El "if" es un condicional. Por lo tanto, se establece que la función devolverá valores verdaderos "true"
+                o falsos "false" ante condiciones que le asignemos a la función.
+Valores Booleanos: Si una preposición es verdadera, por ej, 2 > 1, nos devolverá un valor "true".
+                   Al contrario, si una preposición es falsa, por ej, (1 + 3) > 4, nos devolverá un valor "false".
+                   
