@@ -1,0 +1,11 @@
+for: El comando for es un comando cuya función es realizar un bucle con lo que tenga dentro.
+     Comparará una variable numérica que se le asigne con una expresión que también asignaremos.
+     Siempre que esa expresión sea verdadera, a la variable se le incrementará su valor y la expresión se repetirá,
+     así hasta que se llegue a un valor falso y se detenga el bucle.
+&&: Significa "y", es decir, es una conjunción. Compara 2 expresiones dadas, una de cada lado del "&&". Si el valor de verdad de ambas es verdadero,
+    devolverá verdadero. Si una de ellas o ambas son falsas, se devolverá falso.
+||: Significa "o", es decir, es una disyunción. Compara 2 expresiones dadas, una de cada lado del "||", de manera análoga a la conjunción.
+    Mientras que al menos una de las expresiones sea verdadera, entonces se devolverá verdadero.
+    Solo devolverá "false" en el caso de que ambas expresiones sean falsas.
+!: Indica negación. Ésto cambia el valor de verdad de la expresión, o del resultado de la operación.
+   Si se había devuelto un valor de verdad "true", el "!" lo cambiará a "false" y viceversa.
